@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'http://localhost:3001/',
+    href: 'https://nostalgic-montalcini-6ca1b0.netlify.app/',
   },
   {
     label: 'Trade',
@@ -24,22 +24,22 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'http://localhost:3001/farms',
+    href: 'https://nostalgic-montalcini-6ca1b0.netlify.app/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'http://localhost:3001/syrup',
+    href: 'https://nostalgic-montalcini-6ca1b0.netlify.app/syrup',
   },
   {
     label: 'Lottery',
     icon: 'TicketIcon',
-    href: 'http://localhost:3001/lottery',
+    href: 'https://nostalgic-montalcini-6ca1b0.netlify.app/lottery',
   },
   {
     label: 'NFT',
     icon: 'NftIcon',
-    href: 'http://localhost:3001/nft',
+    href: 'https://nostalgic-montalcini-6ca1b0.netlify.app/nft',
   },
   // {
   //   label: 'Teams & Profile',
@@ -48,15 +48,15 @@ const config: MenuEntry[] = [
   //   items: [
   //     {
   //       label: 'Leaderboard',
-  //       href: 'http://localhost:3001/teams',
+  //       href: 'https://nostalgic-montalcini-6ca1b0.netlify.app/teams',
   //     },
   //     {
   //       label: 'Task Center',
-  //       href: 'http://localhost:3001/profile/tasks',
+  //       href: 'https://nostalgic-montalcini-6ca1b0.netlify.app/profile/tasks',
   //     },
   //     {
   //       label: 'Your Profile',
-  //       href: 'http://localhost:3001/profile',
+  //       href: 'https://nostalgic-montalcini-6ca1b0.netlify.app/profile',
   //     },
   //   ],
   // },
@@ -85,7 +85,7 @@ const config: MenuEntry[] = [
   {
     label: 'IFO',
     icon: 'IfoIcon',
-    href: 'http://localhost:3001/ifo',
+    href: 'https://nostalgic-montalcini-6ca1b0.netlify.app/ifo',
   },
   {
     label: 'More',

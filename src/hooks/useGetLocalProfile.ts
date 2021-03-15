@@ -3,8 +3,8 @@ import Cookies from 'js-cookie'
 import { useActiveWeb3React } from 'hooks'
 
 const initialState = {
-  profileLink: 'http://localhost:3001/profile',
-  noProfileLink: 'http://localhost:3001/profile',
+  profileLink: 'https://nostalgic-montalcini-6ca1b0.netlify.app/profile',
+  noProfileLink: 'https://nostalgic-montalcini-6ca1b0.netlify.app/profile',
 }
 
 /**
